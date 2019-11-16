@@ -3,8 +3,14 @@
 ## How to run project
 ```bash
  npm install
- 
- ### for make migration
+ ```
+ ## Make migration
+```bash
  npx sequelize-cli db:migrate 
- node server
 ```
+
+## Run server
+```bash
+ node server
+ ```
+
