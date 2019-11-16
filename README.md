@@ -1,6 +1,6 @@
 # votes
 
-## How to run project
+## Install deps
 ```bash
  npm install
  ```
